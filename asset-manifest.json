@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keepNote/static/css/main.1e98708b.chunk.css",
+    "main.js": "/keepNote/static/js/main.18589315.chunk.js",
+    "main.js.map": "/keepNote/static/js/main.18589315.chunk.js.map",
+    "runtime-main.js": "/keepNote/static/js/runtime-main.05c01291.js",
+    "runtime-main.js.map": "/keepNote/static/js/runtime-main.05c01291.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/keepNote/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b34c8632.chunk.js": "/keepNote/static/js/2.b34c8632.chunk.js",
+    "static/js/2.b34c8632.chunk.js.map": "/keepNote/static/js/2.b34c8632.chunk.js.map",
+    "index.html": "/keepNote/index.html",
+    "precache-manifest.b65993491f954df6b9e11ff95f8e4cae.js": "/keepNote/precache-manifest.b65993491f954df6b9e11ff95f8e4cae.js",
+    "service-worker.js": "/keepNote/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/keepNote/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1e98708b.chunk.css.map": "/keepNote/static/css/main.1e98708b.chunk.css.map",
+    "static/js/2.b34c8632.chunk.js.LICENSE.txt": "/keepNote/static/js/2.b34c8632.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05c01291.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b34c8632.chunk.js",
+    "static/css/main.1e98708b.chunk.css",
+    "static/js/main.18589315.chunk.js"
+  ]
+}
